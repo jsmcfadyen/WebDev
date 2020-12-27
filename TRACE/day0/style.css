@@ -1,0 +1,29 @@
+h2{
+    font-size: small;
+    font-family: VT323;
+}
+a{
+    font-family: VT323;
+    font-size: small;
+    color: #66FF66;
+}
+body{
+    font-family: VT323;
+    color: #66FF66;
+    background-color: #262626;
+}
+
+p{
+    font-size: small;
+    color: #66FF66;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: #66FF66;
+}
+
+img{
+   
+    max-width: 300px;
+    max-height: 300px;
+}
+
